@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SentimentFromMLdotNET", "SentimentFromMLdotNET\SentimentFromMLdotNET.csproj", "{D9B22D54-78AF-4659-807F-BB38831DB7AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9B22D54-78AF-4659-807F-BB38831DB7AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9B22D54-78AF-4659-807F-BB38831DB7AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9B22D54-78AF-4659-807F-BB38831DB7AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9B22D54-78AF-4659-807F-BB38831DB7AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D84E40E7-6FF5-426B-8122-7BDF0A2A7AC2}
+	EndGlobalSection
+EndGlobal
